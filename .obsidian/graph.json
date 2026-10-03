@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#changelog -tag:#сессия  -tag:#служебное  -tag:#дашборд  -tag:#moc -tag:#глава -tag:#карта",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.12083333333333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.171875,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 0.802083333333333,
+  "linkDistance": 30,
+  "scale": 0.5087618855793203,
+  "close": false
+}
